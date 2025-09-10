@@ -5,6 +5,7 @@ FlexiRent is a modern, full-featured rental management platform designed to simp
 On the other side, shopkeepers (end users) can efficiently manage their inventory, approve booking requests, handle returns, and view real-time insights. To ensure proper business oversight, FlexiRent also includes a dedicated Admin Analytics Mobile App, providing a top-level view of sales, active users, and overall performance.
 
 🔑 Core Modules
+
 👤 Customer Module
 
 Product Discovery: Customers can search and filter products by category, availability dates, and price range.
